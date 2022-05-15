@@ -1,0 +1,129 @@
+.logo {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topmenu {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 3px solid darkgray;
+    border-top: 1px solid darkgray;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.item1 {
+    color: gray;
+}
+.item1 a {
+    text-decoration: none;
+}
+.item1 a:hover {
+    color: black;
+    cursor: pointer;
+}
+.item2 {
+    color: gray;
+}
+.item2:hover {
+    color: black;
+    cursor: pointer;
+}
+.item3 {
+    color: gray;
+}
+.item3:hover {
+    color: black;
+    cursor: pointer;
+}
+.item4 {
+    color: gray;
+}
+.item4:hover {
+    color: black;
+    cursor: pointer;
+}
+.item5 {
+    color: gray;
+}
+.item5:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.title {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    border-bottom: 1px solid #ccc;
+}
+
+.games {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.games img {
+    padding-top: 15px;
+}
+
+.games iframe {
+    padding-top: 15px;
+}
+
+.review {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.reviewtext {
+    color: #ccc;
+    flex-wrap: wrap;
+    padding-left: 35px;
+    padding-top: 2px;
+}
+.reviewtext2 {
+    color:#ccc;
+    text-align: center;
+}
+
+form {
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+footer {
+    background: #222;
+}
+
+footer h4 {
+    opacity: 0.55;
+    line-height: 39px;
+    padding-left: 30px;
+    border: 1px solid #eee;
+}
+
+footer a {
+    color: #fff;
+    display: inline-block;
+    padding: 12px 11px;
+}
+
+footer div a:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer div a {
+    text-decoration: none;
+}
