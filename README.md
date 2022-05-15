@@ -1,5 +1,5 @@
 ## Oppgaven
-Vi hadde en nettside hvor innholdet var opp til oss.
+Vi skulle lagge en nettside hvor innholdet var opp til oss.
 
 ## Innholdet
 Jeg velgte å lagge et sånn "Reviewing Company" nettside for spill.
